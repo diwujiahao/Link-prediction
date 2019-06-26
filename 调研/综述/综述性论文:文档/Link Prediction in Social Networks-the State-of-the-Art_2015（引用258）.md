@@ -37,7 +37,7 @@ Link prediction应用：
 
 ## 总结一般Link prediction模型框架
 
-![一般模型框架](/Users/wjh/Desktop/论文/论文图片/屏幕快照\ 2019-06-12\ 下午8.53.52.png)
+![一般模型框架](../../note_image/屏幕快照\ 2019-06-12\ 下午8.53.52.png)
 
 ### 基于相似度的方法
 
@@ -60,7 +60,7 @@ Link prediction应用：
 
 ## 总结Link prediction相关技术
 
-![分类](/Users/wjh/Desktop/Link prediction/note_image/屏幕快照\ 2019-06-12\ 下午9.06.01.png)
+![分类](../../note_image/屏幕快照\ 2019-06-12\ 下午9.06.01.png)
 
 ## Link prediction中困难问题的解决方法
 
