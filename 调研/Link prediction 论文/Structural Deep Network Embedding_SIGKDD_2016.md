@@ -62,7 +62,7 @@ first-Order Proximity 损失函数：
 
 
 
-
+代码链接：https://github.com/suanrong/SDNE/blob/master/picture/TimeCompare.png
 
 
 
