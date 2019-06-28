@@ -11,5 +11,3 @@
 		- Link Prediction 框架.xmind : 针对Link Prediction方法整理
 		- Link Prediction 综述.md : 针对Link prediction问题整理
 		- 综述性论文/文档：放置综述性论文和笔记
-- 项目
-	- 数据统计信息.md : 数据信息和统计信息介绍
